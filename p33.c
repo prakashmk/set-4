@@ -11,6 +11,6 @@ if(str[i]==' '||str[i]=='\n'||str[i]=='\t')
 {
 c++;}
 i++;}
-printf("\n white space is %d",count);
+printf("\n white space is %d",c);
 return 0;
 }
